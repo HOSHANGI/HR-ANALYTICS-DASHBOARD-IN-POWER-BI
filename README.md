@@ -1,3 +1,6 @@
+![2023-06-12 (1)](https://github.com/HOSHANGI/HR-ANALYTICS-DASHBOARD-IN-POWER-BI/assets/118753140/1a76723f-bce8-455c-a2fa-b914e6815a32)
+![2023-06-12 (2)](https://github.com/HOSHANGI/HR-ANALYTICS-DASHBOARD-IN-POWER-BI/assets/118753140/13082231-519f-4206-91a7-edb81c126292)
+![2023-06-12](https://github.com/HOSHANGI/HR-ANALYTICS-DASHBOARD-IN-POWER-BI/assets/118753140/665d6c6b-37e8-4c90-a416-ee470a44aca4)
 # HR-ANALYTICS-DASHBOARD-IN-POWER-BI
 
 Here I am Excited to share my latest Power BI dashboard. Power BI is a powerful tool for creating business intelligence dashboards, reports, and analytics.
